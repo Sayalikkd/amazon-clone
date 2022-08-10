@@ -1,6 +1,8 @@
 # Amazon clone Application (E-commerce)
 Application Live at: [https://clone-4b330.web.app/] or [https://clone-4b330.firebaseapp.com/]
 
+![Screenshot (48)](https://user-images.githubusercontent.com/73714938/183987913-da4a3a3a-7d20-434d-908f-fea7f477e4c4.png)
+
 ## Introduction
 Build and deployed Amazon Clone application with Firebase. 
 Technical Stack used - React, JavaScript, Advanced CSS. 
